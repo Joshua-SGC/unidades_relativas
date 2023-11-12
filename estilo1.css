@@ -1,0 +1,27 @@
+*{margin: 0; padding: 0;}
+
+body{
+    background: rgb(255, 198, 208);
+}
+
+.fila_head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: italic;
+    font-variant: small-caps;
+    color: rgb(219, 0, 37);
+
+}
+
+table{
+    border-collapse: collapse;
+    background-color: rgb(235, 149, 185);
+    border: 5px dotted black;
+    border-bottom-style: dashed;
+    border-bottom-color: rgb(0, 0, 0);
+}
+
+td{
+    border: 5px dotted rgb(219, 0, 37);
+}
+
